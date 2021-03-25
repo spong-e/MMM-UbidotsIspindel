@@ -1,0 +1,36 @@
+{
+  "name": "mmm-ubidotsispindel",
+  "version": "1.0.0",
+  "description": "A module to keep track of your iSpindel brew via Ubidots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spong-e/MMM-UbidotsIspindel.git"
+  },
+  "keywords": [
+    "MagicMirror",
+    "Module",
+    "iSpindel",
+    "Ubidots"
+  ],
+  "author": "spong-e",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spong-e/MMM-UbidotsIspindel/issues"
+  },
+  "homepage": "https://github.com/spong-e/MMM-UbidotsIspindel#readme",
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-config-prettier": "^7.0.0",
+    "eslint-plugin-jsdoc": "^30.7.8",
+    "eslint-plugin-prettier": "^3.2.0",
+    "prettier": "^2.2.1",
+    "stylelint": "^13.8.0",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-prettier": "^1.1.2"
+  }
+}
